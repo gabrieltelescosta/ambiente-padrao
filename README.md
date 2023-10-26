@@ -22,7 +22,6 @@ Configuração padrão para o ambiente de desenvolvimento de Tema na Tray.
 1. **Clonagem do Repositório** 
 
    ```shell
-   git clone git@github.com:gabrieltelescosta/padrao-projetos.git
    git clone https://github.com/gabrieltelescosta/padrao-projetos.git
 
 2. **Instalação de Dependências** 
@@ -30,6 +29,12 @@ Configuração padrão para o ambiente de desenvolvimento de Tema na Tray.
    ```shell
    cd seu-projeto
    npm install
+
+3. **Crie a pasta Theme** 
+
+```shell
+cd seu-projeto
+mkdir theme
    
 ## Uso
 

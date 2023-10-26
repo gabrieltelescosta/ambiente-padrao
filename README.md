@@ -32,9 +32,9 @@ Configuração padrão para o ambiente de desenvolvimento de Tema na Tray.
 
 3. **Crie a pasta Theme** 
 
-```shell
-cd seu-projeto
-mkdir theme
+   ```shell
+   cd seu-projeto
+   mkdir theme
    
 ## Uso
 

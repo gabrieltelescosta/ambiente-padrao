@@ -1,5 +1,12 @@
 # Ambiente Padrão - Ação Digital
 
+## Índice
+
+- [Visão Geral](#visão-geral)
+- [Requisitos](#requisitos)
+- [Configuração Inicial](#configuração-inicial)
+- [Uso](#uso)
+
 ## Visão Geral
 
 Configuração padrão para o ambiente de desenvolvimento de Tema na Tray.
